@@ -1,0 +1,16 @@
+# Large zip files
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+climate_env/
